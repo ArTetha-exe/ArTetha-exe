@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=a7c080&height=200&section=header&text=&fontSize=0" alt="Header" />
 </div>
 
-<h1 align="center">🌿 Hey there, I'm ArTetha!</h1>
+<h1 align="center" style="font-family: ndot">🌿 Hey there, I'm ArTetha!</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A7C080&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Photographer+%7C+Tech+Enthusiast+%7C+Student;Sports+sometimes+%26+capturing+moments;Always+curious%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A7C080&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Photographer+%7C+Tech+Enthusiast+%7C+Student;Sports+sometimes+%26+capturing+moments;Wubba+Lubba+Dub+Dub" alt="Typing SVG" />
   </a>
 </div>
 
@@ -38,11 +38,11 @@
 I'm a **curious soul** from Indonesia 🇮🇩 who thrives at the crossroads of technology and art. I spend my time building beautiful Hyprland through youtube and AI, capturing fleeting moments through my phone lens, and pushing pixels into meaningful designs.
 
 I believe that aesthetics matter whether it's a perfectly riced desktop or a well-composed photograph. When the screen goes off, you'll find me on the field or exploring new places for the next great shot.
-- 
 - **Device :** Lenovo Ideapad Flex 5, IPhone 11 Pro
 - **Sports :** Cycling, Fun Run
 - **Let's Connect** Always open to collaborations, creative jams, and new friendships! but i just a newbie
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nqfevxxdbjmpo57tsuyqhaxg7e&unique={true|1|on|yes})
 ### Tech & Creative Stack
 
 <div align="center">
@@ -84,7 +84,7 @@ I believe that aesthetics matter whether it's a perfectly riced desktop or a wel
 
 ---
 
-### ✨ A Little Extra
+### A Little Extra
 
 
 <div align="center">
@@ -94,5 +94,7 @@ I believe that aesthetics matter whether it's a perfectly riced desktop or a wel
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=a7c080&height=120&section=footer" alt="Footer" />
-</div>
+	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=a7c080&height=120&section=footer" alt="Footer" />
+	
+	</div>
