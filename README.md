@@ -92,9 +92,6 @@ I believe that aesthetics matter whether it's a perfectly riced desktop or a wel
 </div>
 
 ---
-
 <div align="center">
-	
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=a7c080&height=120&section=footer" alt="Footer" />
-	
-	</div>
+</div>
